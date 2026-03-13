@@ -1,2 +1,2 @@
-[build]
-  publish = "."
+git commit -am "Fix netlify.toml for root deploy"
+git push
