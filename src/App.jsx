@@ -146,7 +146,7 @@ function App() {
     <div className="site-shell">
       <header className="hero">
         <nav className="topbar">
-          <p className="brand">SureVolt Electrical</p>
+          <p className="brand">Shock Wave Electric</p>
           <div className="topbar-links">
             <a className="topbar-nav" href="#services">Services</a>
             <a className="topbar-nav" href="#faq">FAQ</a>
@@ -158,7 +158,7 @@ function App() {
           <p className="eyebrow">Licensed • Insured • Residential + Commercial</p>
           <h1>Power You Can Trust, Work You Can Verify.</h1>
           <p className="hero-copy">
-            SureVolt Electrical delivers clean installations, rapid troubleshooting, and
+            Shock Wave Electric delivers clean installations, rapid troubleshooting, and
             safety-first workmanship across every project.
           </p>
           <a className="cta" href="#services">
@@ -219,7 +219,7 @@ function App() {
                   </svg>
                   2347066220031
                 </a>
-                <a href="mailto:hello@surevoltelectrical.com" className="contact-detail-link">✉️ hello@surevoltelectrical.com</a>
+                <a href="mailto:hello@shockwaveelectric.com" className="contact-detail-link">✉️ hello@shockwaveelectric.com</a>
               </div>
             </div>
             <ContactForm />
@@ -228,7 +228,7 @@ function App() {
       </main>
 
       <footer className="site-footer">
-        <p>&copy; {new Date().getFullYear()} SureVolt Electrical. All rights reserved.</p>
+        <p>&copy; {new Date().getFullYear()} Shock Wave Electric. All rights reserved.</p>
       </footer>
     </div>
   )
